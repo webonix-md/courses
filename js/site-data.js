@@ -14,13 +14,13 @@ window.SITE = {
   nextStart_ro: null, // например: "12 octombrie"
 
   phones: [
-    { tel: "+37369000000", label: "+373 69 000 000", note: "администратор", note_ro: "administrator" },
+    { tel: "+37360000000", label: "+373 60 000 000", note: "администратор", note_ro: "administrator" },
     { tel: "+37322000000", label: "+373 22 000 000", note: "городской", note_ro: "fix" }
   ],
   // RO-версия (ro.html) берёт поля с суффиксом _ro, если они есть
 
-  viber: "viber://chat?number=%2B37369000000",
-  whatsapp: "https://wa.me/37369000000",
+  viber: "viber://chat?number=%2B37360000000",
+  whatsapp: "https://wa.me/37360000000",
 
   address: "ул. Примерная 10, сектор Центр, Кишинёв",
   addressNote: "учебный корпус, 1 этаж",
